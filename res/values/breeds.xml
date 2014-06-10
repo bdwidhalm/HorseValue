@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breed_types">
+        <item>Arabian</item>
+        <item>American Quarter Horse</item>
+        <item>Thoroughbred</item>
+        <item>Andalusian</item>
+        <item>Mustang</item>
+        <item>American Saddlebred</item>
+        <item>Belgian</item>
+        <item>Akhal-Teke</item>
+        <item>Friesian</item>
+        <item>Shire</item>
+        <item>Percheron</item>
+        <item>Dutch Warmblood</item>
+        <item>Lipizzan</item>
+        <item>Falabella</item>
+        <item>Peruvian Paso</item>
+        <item>Miniature Horse</item>
+        <item>Criollo</item>
+        <item>Icelandic</item>
+        <item>Fjord</item>
+        <item>Rocky Mountain</item>
+        <item>Mongolian</item>
+        <item>Kaimanawa</item>
+        <item>Oldenburg</item>
+        <item>Marwari</item>
+        <item>Irish Sport</item>
+        <item>Australian Stock</item>
+        <item>Taishuh</item>
+        <item>Clydesdale</item>
+        <item>American Paint</item>
+        <item>Appaloosa</item>
+        <item>Brumby</item>
+        <item>Haflinger</item>
+        <item>Hanoverian</item>
+        <item>Missouri Fox Trotter</item>
+        <item>Morgan</item>
+        <item>Paso Fino</item>
+        <item>Tennessee Walker</item>
+    </string-array>
+</resources>

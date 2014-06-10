@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reg_assoc_choices">
+        <item>AQHA -  American Quarter Horse Association</item>
+        <item>APHA - American Paint Horse Association</item>
+        <item>AHA - Arabian Horse Association</item>
+        <item>FQHA - Foundation Quarter Horse Association</item>
+    </string-array>
+</resources>
